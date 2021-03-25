@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Vaznica:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Vaznica_jar</output-path>
+    <root id="archive" name="Vaznica.jar">
+      <element id="module-output" name="Vaznica" />
+    </root>
+  </artifact>
+</component>
