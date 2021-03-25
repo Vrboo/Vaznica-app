@@ -1,8 +1,8 @@
 # Väznica app  
 
 Aplikácia Väznica bola vytvorená v rámci semestrálnej práce v prvom ročníku na vysokej škole.  
-<sub>Pozn.: Rozhrania IZamestnatelny a IUveznitelny nie sú potrebné, v mojom prípade úplne zbytočné.</sub>
- 
+<sub>Pozn.: Rozhrania IZamestnatelny a IUveznitelny nie sú potrebné, v mojom prípade úplne zbytočné.</sub>  
+<sub>Pozn.: Spustiteľný súbor (.bat) aplikácie sa nachádza v out\artifacts\Vaznica_jar pod názvnom run.</sub>  
   
 ## Úvod  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Väznica pozostáva z troch kompozícii – cela, strážna veža a muničný sklad, ktoré vytvorí používateľ ihneď po spustení aplikácie a následne môže vykonávať rôzne úkony 
