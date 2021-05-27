@@ -26,10 +26,5 @@ public class Aplikacia {
     public static void main(String[] args) { 
         GUIAplikacia gui = new GUIAplikacia();
         gui.setVisible(true);
-        
-        
-        
-        
-    
     }
 }

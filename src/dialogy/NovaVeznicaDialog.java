@@ -82,11 +82,7 @@ public class NovaVeznicaDialog extends javax.swing.JDialog {
         jLabel10.setText("Maximalny počet granátov:");
 
         jbtnVytvorVeznicu.setText("Vytvor väznicu");
-        jbtnVytvorVeznicu.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jbtnVytvorVeznicuActionPerformed(evt);
-            }
-        });
+        jbtnVytvorVeznicu.addActionListener(evt -> jbtnVytvorVeznicuActionPerformed(evt));
 
         jcmxMinZdravStav.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "40", "30", "20", "10" }));
 
