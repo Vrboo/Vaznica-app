@@ -3,7 +3,7 @@
 
 Aplikácia Väznica bola vytvorená v rámci semestrálnej práce v prvom ročníku na vysokej škole.  
 <sub>&nbsp;&nbsp;&nbsp;&nbsp;Pozn.: Spustiteľný súbor aplikácie - out/artifacts/Vaznica_jar/run.bat</sub>  
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;Pozn.: Rozhrania IZamestnatelny a IUveznitelny nie su v aplikácii potrebné.</sub>  
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;Pozn.: Rozhrania IZamestnatelny a IUveznitelny nie su v aplikácií potrebné.</sub>  
   
   
 ## Úvod  
